@@ -1,6 +1,5 @@
-import type { GetServerSideProps, GetStaticProps } from 'next';
+import type { GetStaticProps } from 'next';
 import Head from 'next/head'
-import { format } from 'path/posix';
 
 import { SubscribeButton } from '../components/SubscribeButton';
 
